@@ -13,8 +13,6 @@
   <img align="center" alt="Hagio-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="Hagio-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg">
   <img align="center" alt="Hagio-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Hagio-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg">
-  
 </div>
 
 ## Networks: 
